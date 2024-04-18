@@ -1,11 +1,11 @@
 @font-face {
     font-family: Product Sans;
-    src: url(Fonts/Product\ Sans\ Regular.ttf);
+    src: url(Fonts/Product\ Sans\ Regular.woff2);
 }
 
 @font-face {
     font-family: Product sans B;
-    src: url(/Fonts/Product\ Sans\ Bold.ttf);
+    src: url(/Fonts/Product\ Sans\ Bold.woff2);
 }
 
 * {
